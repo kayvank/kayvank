@@ -26,6 +26,8 @@ Here are some of my favorites books:
 - [Optics](https://leanpub.com/optics-by-example)
 
 #### Old-time favorites
+- [SICP, Structured Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 - [Seven Sketches in Compositionality](https://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf)
 - [Pearls of Functional Algorithm Design](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/pearls-functional-algorithm-design?format=HB)
 - [Thinking Functionally with Haskell](https://www.cambridge.org/core/books/thinking-functionally-with-haskell/79F91D976F0C7229082325B41824EBBC)

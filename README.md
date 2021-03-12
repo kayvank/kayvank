@@ -5,7 +5,7 @@ Hi, I am Kayvan:
 - :technologist: I am a **software developer**
 - :earth_americas: I live in **San Francisco** and am willing to travel
 - :scroll: [My CV](https://kayvank.github.io/cv/)
-- :link: [Linkedin](www.linkedin.com/in/kayvankazeminejad) [Twitter](https://twitter.com/kayvan_)
+- :link: [Linkedin](https://www.linkedin.com/in/kayvankazeminejad) [Twitter](https://twitter.com/kayvan_)
 
 ### About me
 I am a functional programmer, a long-time software architect and engineer. I love startups, technology, science, math, software engineering and endurance sports. I have worked in a variety of verticals including:

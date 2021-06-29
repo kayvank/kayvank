@@ -19,6 +19,9 @@ I am a functional programmer, a long-time software architect and engineer. I lov
 Here are some of my favorites books:
 
 #### Recent reads
+- [Haskell in depth](https://www.manning.com/books/haskell-in-depth)
+- [Thinking with types](https://thinkingwithtypes.com/)
+- [Parallel concurrent programming in haskell](https://simonmar.github.io/pages/pcph.html)
 - [Algorithm Design with Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52)
 - [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture)
 - [Practical FP in Scala](https://leanpub.com/pfp-scala)

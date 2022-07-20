@@ -19,6 +19,7 @@ I am a functional programmer, a long-time software architect and engineer. I lov
 Here are some of my favorites books:
 
 #### Recent reads
+- [Book of Monads](https://leanpub.com/book-of-monads)
 - [Haskell in depth](https://www.manning.com/books/haskell-in-depth)
 - [Thinking with types](https://thinkingwithtypes.com/)
 - [Parallel concurrent programming in haskell](https://simonmar.github.io/pages/pcph.html)

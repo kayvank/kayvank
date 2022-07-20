@@ -11,7 +11,7 @@ Hi, I am Kayvan:
 I am a functional programmer, a long-time software architect and engineer. I love startups, technology, science, math, software engineering and endurance sports. I have worked in a variety of verticals including:
 - IoT
 - Blockchain platforms and DApp
-- music and video streaming
+- Music and video streaming
 - Banking
 - Healthcare
 

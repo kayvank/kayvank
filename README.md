@@ -4,7 +4,7 @@ Hi, I am Kayvan:
 
 - :technologist: I am a **software developer**
 - :earth_americas: I live in **San Francisco** and am willing to travel
-- :scroll: [My CV](https://kayvank.github.io/cv/)
+- :scroll: [My CV](https://kayvank.github.io/cv/), [pdf](https://github.com/kayvank/cv/blob/main/cv.pdf)
 - :link: [Linkedin](https://www.linkedin.com/in/kayvankazeminejad) [Twitter](https://twitter.com/kayvan_)
 
 ### About me

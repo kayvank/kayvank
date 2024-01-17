@@ -4,15 +4,15 @@ Hi, I am Kayvan:
 
 - :technologist: I am a **software developer**
 - :earth_americas: I live in **San Francisco** and am willing to travel
-- :scroll: [My CV](https://kayvank.github.io/cv/)
+- :scroll: [My CV](https://kayvank.github.io/cv/), [pdf](https://github.com/kayvank/cv/blob/main/cv.pdf)
 - :link: [Linkedin](https://www.linkedin.com/in/kayvankazeminejad) [Twitter](https://twitter.com/kayvan_)
 
 ### About me
 I am a functional programmer, a long-time software architect and engineer. I love startups, technology, science, math, software engineering and endurance sports. I have worked in a variety of verticals including:
 - IoT
-- Blockchain platforms and DApp
+- Blockchain platforms and dApp
 - Music and video streaming
-- Banking
+- Banking and finance
 - Healthcare
 
 ### My favorite books
@@ -23,7 +23,7 @@ Here are some of my favorites books:
 - [Haskell in depth](https://www.manning.com/books/haskell-in-depth)
 - [Thinking with types](https://thinkingwithtypes.com/)
 - [Parallel concurrent programming in haskell](https://simonmar.github.io/pages/pcph.html)
-- [Algorithm Design with Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52)
+- [Abstractions in Context](https://williamyaoh.gumroad.com/l/CLyzT)
 - [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture)
 - [Practical FP in Scala](https://leanpub.com/pfp-scala)
 - [Algebra-Driven Design](https://leanpub.com/pfp-scala)
